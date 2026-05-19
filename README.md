@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Leonardo-Dev-ADS/Leonardo-Dev-ADS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Leonardo, an ADS (Systems Analysis and Development) student passionate about technology, software development, artificial intelligence, and robotics.
+💻 Currently learning:
+- Java & JavaFX
+- VB.NET
+- SQL Server
+- Git & GitHub
 
-Here are some ideas to get you started:
+🚀 Interested in:
+- Backend development
+- Databases
+- AI and automation
+- Software engineering
+📚 Always looking to improve my programming and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact:
+I enjoy combining technology with creativity and building practical systems projects.
